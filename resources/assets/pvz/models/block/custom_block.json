@@ -1,0 +1,11 @@
+{
+  "parent": "namespace:block/block",
+  "textures": {
+    "down": "namespace:block/texture_1",
+    "up": "namespace:block/texture_2",
+    "north": "namespace:block/texture_3",
+    "east": "namespace:block/texture_4",
+    "south": "namespace:block/texture_5",
+    "west": "namespace:block/texture_6"
+  }
+}
